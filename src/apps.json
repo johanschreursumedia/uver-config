@@ -55,10 +55,7 @@
     },
     "upython2": "2.7.13",
     "upython3": "3.6.2",
-    "deadlinelauncher": "9.0.3.0",
-    "deadlinecommand": "9.0.3.0",
-    "deadlinemonitor": "9.0.3.0",
-    "deadlineslave": "9.0.3.0",
+    "deadline": "9.0.3.0",
     "rv": {
         "version": "7.2.0",
         "addons": {
